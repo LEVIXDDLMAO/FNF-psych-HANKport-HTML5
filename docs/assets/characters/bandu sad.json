@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sad idle"
+		},
+		{
+			"offsets": [
+				5,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sad up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sad right"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sad down"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sad left"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "phones fall"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bandu",
+	"position": [
+		10,
+		-100
+	],
+	"healthicon": "bandu and bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		159,
+		34
+	],
+	"camera_position": [
+		-70,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
