@@ -1,13 +1,12 @@
 {{
 	"storyName": "TIME FOR MADNESS",
 	"hideFreeplay": false,
-	"weekBackground": "the-end",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
+	"weekBefore": "week5",
 	"startUnlocked": true,
 	"weekCharacters": [
 		"",
@@ -35,6 +34,5 @@
 		]
 	],
 	"hideStoryMode": false,
-	"weekBefore": "week5"
 	"weekName": "Week 6"
 }
