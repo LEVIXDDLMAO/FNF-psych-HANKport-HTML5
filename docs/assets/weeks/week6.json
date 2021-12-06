@@ -1,11 +1,6 @@
 {{
 	"storyName": "TIME FOR MADNESS",
 	"hideFreeplay": false,
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
 	"weekBefore": "week5",
 	"startUnlocked": true,
 	"weekCharacters": [
