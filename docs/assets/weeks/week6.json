@@ -1,22 +1,40 @@
-{
-	"songs": [
-		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
+{{
+	"storyName": "TIME FOR MADNESS",
+	"hideFreeplay": false,
+	"weekBackground": "the-end",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"senpai",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "school",
-
-	"storyName": "hating simulator ft. moawling",
-	"weekBefore": "week5",
-	"weekName": "Week 6",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Disruption",
+			"bambi3d",
+			[
+				31,
+				205,
+				33
+			]
+		],
+		[
+			"AppleCore",
+			"bamnduiunfairthem",
+			[
+				0,
+				35,
+				13
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "week5"
+	"weekName": "Week 6"
 }
