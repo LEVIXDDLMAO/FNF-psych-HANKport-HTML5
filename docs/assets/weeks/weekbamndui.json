@@ -1,0 +1,39 @@
+{
+	"storyName": "TIME FOR MADNESS",
+	"hideFreeplay": false,
+	"weekBackground": "the-end",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Disruption",
+			"bambi3d",
+			[
+				31,
+				205,
+				33
+			]
+		],
+		[
+			"AppleCore",
+			"bamnduiunfairthem",
+			[
+				0,
+				35,
+				13
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
