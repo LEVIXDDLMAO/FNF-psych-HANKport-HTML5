@@ -3,6 +3,8 @@
 		["Cocoa", "parents", [160, 209, 255]],
 		["Eggnog", "parents", [160, 209, 255]],
 		["Winter Horrorland", "monster", [160, 209, 255]]
+		["Disruption", "monster", [160, 209, 255]]
+		["Applecore", "monster", [160, 209, 255]]
 	],
 
 	"weekCharacters": [
